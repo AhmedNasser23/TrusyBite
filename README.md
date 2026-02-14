@@ -31,6 +31,3 @@ The prototype covers five phases:
 5. Consumer / Audit
 
 Each phase records a cryptographically verifiable event.
-
-## License
-This project is developed for academic purposes only.
